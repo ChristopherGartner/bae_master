@@ -1,0 +1,20 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "Backend for BAE project",
+  "main": "testScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherGartner/bae_master.git"
+  },
+  "author": "cgartner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherGartner/bae_master/issues"
+  },
+  "homepage": "https://github.com/ChristopherGartner/bae_master#readme"
+}
