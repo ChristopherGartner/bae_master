@@ -45,7 +45,7 @@ class Authenticator {
     }
 
     /**
-     *
+     * Test
      * @param {Role} role
      * @param {Right} right
      * @returns {boolean}
